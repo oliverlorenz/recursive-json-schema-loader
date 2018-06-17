@@ -8,6 +8,10 @@
   },
   "author": "Oliver Lorenz <mail@oliverlorenz.com>",
   "license": "MIT",
+  "repository": { 
+    "type" : "git",
+    "url" : "https://github.com/oliverlorenz/recursive-json-schema-loader.git"
+  },
   "dependencies": {
     "ajv": "^6.5.1",
     "bluebird": "^3.5.1",
