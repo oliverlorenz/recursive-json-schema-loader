@@ -1,6 +1,6 @@
 # schema loader
 
-provides a easy to use functionality to give a path with schemas
+provides a easy to use functionality load all schemas in a directory structure. The structure creates the schema ids, so references are easy to handle.
 
 ## Usage with [ajv](https://www.npmjs.com/package/ajv)
 
