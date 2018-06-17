@@ -1,0 +1,17 @@
+{
+  "name": "recursive-json-schema-loader",
+  "version": "1.0.0",
+  "description": "provides a easy to use functionality to give a path with schemas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver Lorenz <mail@oliverlorenz.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^6.5.1",
+    "bluebird": "^3.5.1",
+    "recursive-readdir": "^2.2.2"
+  },
+  "devDependencies": {}
+}
