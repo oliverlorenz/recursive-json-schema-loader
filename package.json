@@ -1,6 +1,6 @@
 {
   "name": "recursive-json-schema-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "provides a easy to use functionality to give a path with schemas",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "author": "Oliver Lorenz <mail@oliverlorenz.com>",
   "license": "MIT",
-  "repository": { 
-    "type" : "git",
-    "url" : "https://github.com/oliverlorenz/recursive-json-schema-loader.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oliverlorenz/recursive-json-schema-loader.git"
   },
   "dependencies": {
     "ajv": "^6.5.1",
